@@ -2,7 +2,7 @@
 graphql-apollo-demo
 
 # API
-1. graphql
+1. GraphQL
 2. RESTful
 
 # datasource
@@ -12,5 +12,5 @@ graphql-apollo-demo
 
 # logger
 ## winston
-1. json
-2. raw
+1. Json
+2. Raw
